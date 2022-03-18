@@ -9,5 +9,5 @@ Desenvolver em HTML e CSS uma página igual a proposta
 Obs. O header e o footer, podem ser modificados com imagens da internet.
 
 CONCLUSÃO
-Foi desenvolvido a página conforme o pedido, e também achei interessante desenvolver e
+Foi desenvolvido a página conforme o pedido, e também achei interessante desenvolver uma responsividade,
 colocar o favicon e também importar alguns ícones de uma biblioteca online.

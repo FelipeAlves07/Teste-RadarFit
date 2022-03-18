@@ -1,4 +1,5 @@
 TESTE TÉCNICO ESTÁGIO FRONT-END HTML, CSS
+Link do projeto: https://felipealves07.github.io/Teste-RadarFit/
 
 IMPORTANTE
 Prazo de entrega: 18/03/2022
